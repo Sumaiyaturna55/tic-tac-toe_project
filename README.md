@@ -8,16 +8,16 @@ A desktop Tic Tac Toe game built with Python and Tkinter. Instead of the classic
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ### Main Menu
-<img src="screenshots/menu.png" width="600" alt="Main Menu">
+<img src="menu.png" width="600" alt="Main Menu">
 
 ### Multiplayer Mode
-<img src="screenshots/multiplayer.png" width="400" alt="Multiplayer Mode">
+<img src="multiplayer.png" width="400" alt="Multiplayer Mode">
 
 ### Single Player Mode
-<img src="screenshots/single-player.png" width="400" alt="Single Player Mode">
+<img src="single-player.png" width="400" alt="Single Player Mode">
 
 ---
 
